@@ -3,14 +3,14 @@ Simple HTTP API for playing with User model.
 
 ## Files
 
-`**models/**`
+**`models/`**
 - `base.py`: Base of all models of the API - handle serialization to file
 - `user.py`: User model
 
-`**api/v1/**`
+**`api/v1/`**
 - `app.py`: Entry point of the API
 
-`**views/**` 
+**`views/`** 
 - `index.py`: Basic endpoints of the API: /status and /stats
 - `users.py`: All users endpoints
 
