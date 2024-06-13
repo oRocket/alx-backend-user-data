@@ -42,7 +42,7 @@ users.session_id: VARCHAR(250)
 users.reset_token: VARCHAR(250)
 bob@dylan:~$
 ```
-##Repo##:
+**Repo**:
 
 - GitHub repository: `alx-backend-user-data`
 - Directory: `0x03-user_authentication_service`
